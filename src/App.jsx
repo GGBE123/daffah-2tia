@@ -27,7 +27,6 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-
     <Suspense fallback={<Loading />}>
       <Routes>
         {/* Guest Routes */}
@@ -62,7 +61,6 @@ function App() {
         </Route>
       </Routes>
     </Suspense>
-
   )
 }
 

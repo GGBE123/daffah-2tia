@@ -9,7 +9,7 @@ const Testimonial = () => {
   useEffect(() => {
     const fetchTestimonials = async () => {
       try {
-        const response = await fetch('/src/data/testimonials.json');
+        const response = await fetch('/public/data/testimonials.json');
         if (!response.ok) {
           throw new Error('Failed to fetch testimonials');
         }
