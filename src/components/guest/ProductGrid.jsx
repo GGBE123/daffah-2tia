@@ -72,7 +72,7 @@ const ProductGrid = () => {
           {products[0] && (
             <div className="md:col-span-3 flex bg-white rounded-lg shadow overflow-hidden">
               <img 
-                src={products[0].gambar} 
+                public={products[0].gambar} 
                 alt={products[0].nama_produk} 
                 className="w-full md:w-1/3 h-60 md:h-auto object-cover"
               />
@@ -97,7 +97,7 @@ const ProductGrid = () => {
               className="flex bg-white rounded-lg shadow hover:shadow-md transition overflow-hidden"
             >
               <img 
-                src={item.gambar} 
+                public={item.gambar} 
                 alt={item.nama_produk} 
                 className="w-1/3 h-40 object-cover"
               />
