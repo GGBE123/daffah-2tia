@@ -13,7 +13,7 @@
     "harga": 25000,
     "stok": 0,
     "deskripsi": "Brownies lembut dengan cokelat lumer di setiap gigitan.",
-    "gambar": "/P2.JPG"
+    "gambar": "/P2.jpg"
   },
   {
     "kode_produk": "MNQ789",
@@ -21,7 +21,7 @@
     "harga": 30000,
     "stok": 5,
     "deskripsi": "Kopi Arabika pilihan dengan aroma khas dan rasa yang nikmat.",
-    "gambar": "/P3.JPG"
+    "gambar": "/P3.jpg"
   },
   {
     "kode_produk": "MNQ790",
@@ -29,6 +29,6 @@
     "harga": 50000,
     "stok": 5,
     "deskripsi": "Apple Pie dengan eskrim vanilla",
-    "gambar": "/P4.JPG"
+    "gambar": "/P4.jpg"
   }
 ]
