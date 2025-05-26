@@ -1,13 +1,5 @@
 {
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Security-Policy",
-          "value": "img-src 'self' data: https://*.nyt.com https://*.freepik.com https://*.akamaized.net https://*.hearstapps.com https://*.buzzsprout.com https://*.jetpunk.com https://*.gstatic.com;"
-        }
-      ]
-    }
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
   ]
 }

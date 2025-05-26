@@ -5,7 +5,7 @@
     "harga": 85000,
     "stok": 12,
     "deskripsi": "Goulashh, makanan nasional Hungaria yang sudah ada sejak abad pertengahan",
-    "gambar": "https://static01.nyt.com/images/2023/08/24/multimedia/LH-Goulash-kfmt/LH-Goulash-kfmt-jumbo.jpg?quality=75&auto=webp"
+    "gambar": "P1.JPG"
   },
   {
     "kode_produk": "XYZ456",
@@ -13,7 +13,7 @@
     "harga": 25000,
     "stok": 0,
     "deskripsi": "Brownies lembut dengan cokelat lumer di setiap gigitan.",
-    "gambar": "https://cdn0-production-images-kly.akamaized.net/cgU6a27eKLetOHd0ox2Vgfr92JA=/0x149:999x712/640x360/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3509171/original/034398000_1626160499-shutterstock_1940568901.jpg"
+    "gambar": "P2.JPG"
   },
   {
     "kode_produk": "MNQ789",
@@ -21,7 +21,7 @@
     "harga": 30000,
     "stok": 5,
     "deskripsi": "Kopi Arabika pilihan dengan aroma khas dan rasa yang nikmat.",
-    "gambar": "https://img.freepik.com/premium-photo/black-coffee-with-cardamom-traditional-arabic-coffee_158388-716.jpg"
+    "gambar": "P3.JPG"
   },
   {
     "kode_produk": "MNQ790",
@@ -29,6 +29,6 @@
     "harga": 50000,
     "stok": 5,
     "deskripsi": "Apple Pie dengan eskrim vanilla",
-    "gambar": "https://hips.hearstapps.com/hmg-prod/images/apple-pie-index-6425bd0363f16.jpg?crop=0.8888888888888888xw:1xh;center,top&resize=1200:*"
+    "gambar": "P4.JPG"
   }
 ]

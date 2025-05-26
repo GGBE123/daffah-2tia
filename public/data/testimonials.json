@@ -3,21 +3,21 @@
     "id": 1,
     "nama": "Andi Wijaya",
     "ulasan": "Makanan di sini enak banget, pelayanan cepat dan ramah!",
-    "avatar": "https://www.buzzsprout.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSktYYndFPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--35117d0d344b965b35fa877fe52f449a6a4f561c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDam9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3docEFuZ0ZhUUo0QlhzR09nbGpjbTl3T2d0alpXNTBjbVU2RUdSbFptRjFiSFJmZFhKc1NTSTVhSFIwY0hNNkx5OTNkM2N1WW5WNmVuTndjbTkxZEM1amIyMHZhVzFoWjJWekwyRnlkSGR2Y210elgyeGhjbWRsTG1wd1p3WTZCa1ZVT2dwellYWmxjbnNHT2d4eGRXRnNhWFI1YVVFNkVHTnZiRzkxY25Od1lXTmxTU0lKYzNKbllnWTdDMVE9IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--2a89ede784d6e184500689d6dcbd55b204c8d4ad/Robbie's%20Random%20AF%202.jpg",
+    "avatar": "Man1.JPG",
     "status": "Food Blogger"
   },
   {
     "id": 2,
     "nama": "Siti Lestari",
     "ulasan": "Saya suka suasana tempatnya, nyaman dan cocok buat keluarga.",
-    "avatar": "https://www.jetpunk.com/img/user-img/62/62e6359797-450.webp",
+    "avatar": "Woman2.JPG",
     "status": "Ibu Rumah Tangga"
   },
   {
     "id": 3,
     "nama": "Budi Hartono",
     "ulasan": "Harga terjangkau dengan kualitas makanan yang luar biasa.",
-    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBfks1gghHrT4QOe-EwkK9c5YiYw_PjU0ygg&s",
+    "avatar": "Man2.JPG",
     "status": "Karyawan Swasta"
   }
 ]
