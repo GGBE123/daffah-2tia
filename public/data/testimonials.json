@@ -3,21 +3,21 @@
     "id": 1,
     "nama": "Andi Wijaya",
     "ulasan": "Makanan di sini enak banget, pelayanan cepat dan ramah!",
-    "avatar": "Man1.JPG",
+    "avatar": "/Man1.JPG",
     "status": "Food Blogger"
   },
   {
     "id": 2,
     "nama": "Siti Lestari",
     "ulasan": "Saya suka suasana tempatnya, nyaman dan cocok buat keluarga.",
-    "avatar": "Woman2.JPG",
+    "avatar": "/Woman2.JPG",
     "status": "Ibu Rumah Tangga"
   },
   {
     "id": 3,
     "nama": "Budi Hartono",
     "ulasan": "Harga terjangkau dengan kualitas makanan yang luar biasa.",
-    "avatar": "Man2.JPG",
+    "avatar": "/Man2.JPG",
     "status": "Karyawan Swasta"
   }
 ]
