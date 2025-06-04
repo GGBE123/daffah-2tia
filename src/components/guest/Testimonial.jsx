@@ -90,7 +90,7 @@ const Testimonial = () => {
                   <p className="text-gray-600 italic text-lg mb-8">"{testimonial.ulasan}"</p>
                   <div className="flex flex-row items-center space-x-6">
                     <img
-                      public={testimonial.avatar || `https://avatar-placeholder.iran.liara.run/public/${index + 1}`}
+                      src={testimonial.avatar || `https://avatar-placeholder.iran.liara.run/public/${index + 1}`}
                       alt={testimonial.nama}
                       className="w-32 h-32 rounded-2xl object-cover shadow-md"
                     />

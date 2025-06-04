@@ -22,6 +22,7 @@ const Guesthome = React.lazy(() => import('./pages/guest/Guesthome'));
 const ProductCheck = React.lazy(() => import('./pages/guest/ProductCheck'));
 import Loading from './components/Loading';
 import ListoUsers from './pages/ListoUsers';
+import Notes from './pages/Notes';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -41,6 +42,7 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/listousers" element={<ListoUsers />} />
+          <Route path="/notes" element={<Notes />} />
           <Route path="/customers/add" element={<AddCustomer />} />
           <Route path="/orders/add" element={<AddOrder />} />
         </Route>

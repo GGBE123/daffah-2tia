@@ -35,6 +35,11 @@ export default function ListMenu() {
                         </NavLink>
                     </li>
                     <li>
+                        <NavLink id="menu-2" to="/notes" className={menuClass}>
+                        Notes
+                        </NavLink>
+                    </li>
+                    <li>
                         <NavLink id="menu-3" to="/ErrorA" className={menuClass}>
                         Error 400
                         </NavLink>
